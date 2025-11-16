@@ -1,0 +1,186 @@
+/* CSS Document */
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	color:#bc952b;
+	text-decoration: none;
+        font-weight: bold;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+	
+}
+.index{
+	padding: 30px;
+}
+.index p {
+	font-size: 19px;
+
+}
+body {
+	background-image:url(images/real-madrid-stadium_070693.jpg);
+
+	background-attachment:fixed;
+}
+
+p, ul {
+	color:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	font-size:12px;
+	text-decoration:none;
+	}
+	
+
+.menu {
+  background-color: #bc952b;
+   padding-bottom:-10px;
+
+}
+.menu a:link,.menu a:visited  {	
+  font-size: 24px;
+  text-align: left;
+  cursor: pointer;
+  color: #fff;
+  background-color: #bc952b;
+}
+a{
+  height:50px;
+  line-height: 1.7;
+  font-weight: bold;	
+  padding-left:10px;
+  border-radius: 5px; 
+}
+
+
+.menu a:hover, #active {
+	
+	background-color: #967822;
+transform: translateY(4px);
+  font-weight: bold;
+       color: #000000;  
+ border-radius: 5px; 
+ 
+}
+a{
+	font-size:21px;
+	text-decoration:none;
+         padding:  5px;	
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  font-weight: bold;
+
+}
+a:hover{background-color: #967822;
+transform: translateY(4px);
+       font-weight: bold;
+       color: #000000;
+}
+
+div.thumbinner {
+  border: 1px solid #ccc;
+  padding: 3px;
+  background-color: #f9f9f9;
+  font-size: 94%;
+  text-align: center;
+  overflow: hidden;
+}
+.thumbleft{
+background-color: rgba(0, 0, 0, 0);
+  border-bottom-color: rgb(37, 37, 37);
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(37, 37, 37);
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: rgb(37, 37, 37);
+  border-right-style: none;
+  border-right-width: 0px;
+  border-top-color: rgb(37, 37, 37);
+  border-top-style: none;
+  border-top-width: 0px;
+  clear: left;
+  color: rgb(37, 37, 37);
+  direction: ltr;
+  display: block;
+  float: left;
+  font-family: sans-serif;
+  font-size: 14px;
+
+  line-height: 22.3999996185303px;
+  margin-bottom: 11.1999998092651px;
+  margin-left: 0px;
+  margin-right: 19.6000003814697px;
+  margin-top: 7px;
+ 
+  padding:10px;}
+  .thumbright{
+	  
+  background-color: rgba(0, 0, 0, 0);
+  border-bottom-color: rgb(37, 37, 37);
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(37, 37, 37);
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: rgb(37, 37, 37);
+  border-right-style: none;
+  border-right-width: 0px;
+  border-top-color: rgb(37, 37, 37);
+  border-top-style: none;
+  border-top-width: 0px;
+  clear: right;
+  color: rgb(37, 37, 37);
+  direction: ltr;
+  display: block;
+  float: right;
+  font-family: sans-serif;
+  font-size: 14px;
+  
+  line-height: 22.3999996185303px;
+  margin-bottom: 11.1999998092651px;
+  margin-left: 19.6000003814697px;
+  margin-right: 0px;
+  margin-top: 7px;
+ 
+  padding:10px}
+  
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 27px;
+	color:#000000
+	text-decoration: none;
+}
+h3 {
+
+	ffont-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color:rgba(10,23,78,1.00);
+	text-decoration: none;
+}
+.footer_text {
+	font-size: 14px;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.gol td, .gol p{
+	font-size:17px;}
+.gol1 td, .gol1 p{
+		font-size:12px;}
+.gol2 td, .gol2 p{
+		font-size:11px;}
